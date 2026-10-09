@@ -90,7 +90,7 @@ Exporter le CA depuis pfSense :
 
 ![image-07.png](assets/ssl/image-07.png)
 
-- Le recuperer sur le SRV-AD :
+- Le recuperer sur le `<SERVEUR>` :
 
 ![image-08.png](assets/ssl/image-08.png)
 
@@ -128,7 +128,7 @@ Dans ta zone formation.local, ajoute un **enregistrement A** :
 
 Nom : www
 
-- Adresse IP : (IP du serveur Web, ex. 192.168.8.10)
+- Adresse IP : (IP du serveur Web, ex. `<IP_DU_SERVEUR>`)
 
 ![image-15.png](assets/ssl/image-15.png)
 
